@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science --> Machine Learning, Deep Learning
 - 🌱 I’m currently learning --> DL, computer vision
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: manirathinam21@yahoo.com & linkedin: linkedin.com/in/manirathinam-s-013005216/
+- 📫 How to reach me email: manirathinam21@yahoo.com 
 
 <!---
 Manirathinam21/Manirathinam21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/Manirathinam S
+[linkedin]: https://www.linkedin.com/in/manirathinam-s-013005216/
 [twitter]: https://www.twitter.com/Manirathinam_sj
 [Instagram]: https://www.instagram.com/manirathinam_sj
 

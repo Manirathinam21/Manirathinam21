@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manirathinam21&label=Profile%20views&color=0e75b6&style=flat" alt="Manirathinam21" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c17hawke&" alt="c17hawke" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manirathinam21&" alt="Manirathinam21" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manirathinam21" alt="Manirathinam21" /></a> </p> -->
 

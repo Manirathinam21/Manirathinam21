@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manirathinam21
 - 👀 I’m interested in Data Science --> Machine Learning, Deep Learning
-- 🌱 I’m currently learning --> DL, computer vision
+- 🌱 I’m currently learning --> computer vision, Generative AI, LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: manirathinam21@yahoo.com 
 
